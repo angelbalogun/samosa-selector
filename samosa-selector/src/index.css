@@ -64,7 +64,7 @@ button:focus-visible {
     color: #747bff;
   }
   button {
-    background-color: #f9f9f9;
+    background-color: #f6e7e7;
   }
 }
 
@@ -90,3 +90,4 @@ button:focus-visible {
   width: 200px;
   line-height: 0.5;
 }
+
